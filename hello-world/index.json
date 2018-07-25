@@ -5,7 +5,7 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command heyyyyyy",
+      "title": "Step 1 - Ansible Create File",
       "text": "step1.md"
     }],
     "intro": {
