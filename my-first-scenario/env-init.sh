@@ -1,3 +1,3 @@
 echo "L'environnement est en cours d'initialisation"
-docker run --name some-nginx -v /home/scrapbook/tutorial:/usr/share/nginx/html:ro -d nginx
+docker run -d jehage/centos7
 echo "L'environement est prêt!"
