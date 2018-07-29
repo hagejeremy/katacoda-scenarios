@@ -1,1 +1,1 @@
-git clone https://github.com/katacoda/scenario-example
+ocker run --name some-nginx -v .:/usr/share/nginx/html:ro -d nginx
