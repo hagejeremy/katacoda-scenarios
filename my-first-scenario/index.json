@@ -17,7 +17,7 @@
     "assets": { 
          "client": [
          {
-           "file": "id_rsa", "target": "/home/scrapbook/.ssh", "chmod": "600"
+           "file": "id_rsa", "target": "/home/scrapbook/", "chmod": "600"
          }
         ] 
      }
